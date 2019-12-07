@@ -1,7 +1,4 @@
-Hackathon
-=========
 
-Hackathon project of Sahil Shekhawat and Karan Grover.
 
 Installing
 ==========
