@@ -1,0 +1,14 @@
+Created as a hackathon Project by
+Sahil Shekhawat - sahilshekhawat01@gmail.com
+Karan Grover	- krngrvr09@gmail.com
+
+Aim of this project is to create a WEB app which can track the location 
+of the students of IIIT-Delhi so that they can actually see where their
+FRIENDS are.
+
+
+It works by using Google Maps API along with geolocation feature of the 
+browser. This way students can use it on their mobiles phones as well on 
+their laptops leaving the positioning to the GOOGLE.
+Now we can actually tell where a person is in the real time.
+
